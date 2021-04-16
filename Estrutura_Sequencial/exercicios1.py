@@ -15,7 +15,7 @@ print("Divisão:", divisao)
 print("Divisão truncada:", divisao_truncada)
 print("Resto:", resto)
 print("Exponenciação:", exponenciacao)
-print("End")
+
 
 
 
