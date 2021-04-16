@@ -3,3 +3,4 @@ a=int(input())
 b=int(input())
 resposta= (a-b)**2
 print('Resposta:', resposta)
+print("End")
