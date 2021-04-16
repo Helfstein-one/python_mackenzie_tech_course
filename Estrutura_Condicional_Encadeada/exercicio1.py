@@ -11,5 +11,5 @@ elif ((n1 >= 14) and (n1 <= 17)):
     print('JUVENIL B')
 elif (n1>18) or (n1==18):
     print("SÊNIOR")
-    print("End")
+
 
