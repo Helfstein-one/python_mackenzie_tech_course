@@ -11,7 +11,7 @@ else:
         if nota>=6.0:
             print("PARABÉNS VOCÊ ESTÁ APROVADO")
     print((float(total_notas/numero_de_notas)))
-    print("End")
+
 
 
 
